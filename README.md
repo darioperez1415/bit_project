@@ -2,6 +2,7 @@
 
 Dario Perez 
 Final Project Type 1
+
 1. Propose a data visualization project problem you need to 
 solve
 The project aims to solve the problem of understanding and analyzing 
@@ -12,6 +13,7 @@ potential indicators that can help investors make informed decisions.
 This project will use data visualization to provide insights into how 
 various metrics interact, with the goal of facilitating better trading and 
 investment strategies.
+
 2. Briefly introduce your project with a broad motivation
 The motivation for this project lies in the increasing relevance of 
 cryptocurrencies in global finance and the challenges that come with 
@@ -22,10 +24,10 @@ project can provide valuable information to individuals and investors,
 helping them navigate the market more effectively. The insights 
 gained could reduce risk exposure and lead to more informed, 
 strategic investment decisions.
+
 3. Describe the project goals and its expected outcomes
 Project Goals:
- 
-Identify Trends: Analyze price trends, trading volumes, and 
+ Identify Trends: Analyze price trends, trading volumes, and 
 market capitalization over time across various cryptocurrencies.
  Discover Correlations: Investigate correlations between 
 different metrics, such as price and trading volume, to uncover 
